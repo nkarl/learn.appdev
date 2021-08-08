@@ -1,0 +1,3 @@
+[submodule "swing-apps/sql-viewer"]
+	path = swing-apps/sql-viewer
+	url = https://github.com/nkarl/learn.appdev.sql-viewer
